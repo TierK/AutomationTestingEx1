@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1234,
+    "name": "Miki Sofine",
+    "age": 28,
+    "genre": ["comedy", "drama"],
+    "address": "under the bridge 13",
+    "yearsOfExperience": 12
+  },
+  {
+    "id": 1235,
+    "name": "Mor Sasson",
+    "age": 34,
+    "genre": ["horor", "drama"],
+    "address": "somewhere over the rainbow 12A/1",
+    "yearsOfExperience": 7
+  }
+]
